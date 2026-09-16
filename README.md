@@ -7,3 +7,4 @@ adioss
 ## Contacto
 chaou
 
+## Habilidades
